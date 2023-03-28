@@ -2,3 +2,5 @@ Hadoop
 scala
 spark
 flame
+pig
+zookeeper
